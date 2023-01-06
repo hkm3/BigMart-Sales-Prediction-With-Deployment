@@ -3,10 +3,7 @@
 Pour créer un logiciel qui peut prédire les ventes pour les entreprises
 projet IA 2021-2022
 
-encadré par: M. HAJJI TARIK
 
-Khalil Hamdouch
-Oussama Oussous
 
 # Problem Statement
 
